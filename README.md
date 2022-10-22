@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi 👋, I am Matteo
 
-<!--
-**Mattordre44/Mattordre44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate software apprentice engineer from France
 
-Here are some ideas to get you started:
+- 🔭 I'm currently looking for a 13-week internship in software engineering from May 2023 ! Feel free to contact me if you have any opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **NextJS**
+
+- 🏢 Fullstack Engineer Apprentice in a company specialized in online voting
+
+- 📫 How to reach me **matteo.ordrn@gmail.com**
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mattordre44&show_icons=true&locale=en&theme=dracula" alt="mattordre44" /></p>
