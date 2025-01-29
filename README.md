@@ -2,9 +2,6 @@
 
 ### A passionate software apprentice engineer from France
 
-
-- 🌱 I’m currently learning **NextJS**
-
-- 🏢 Fullstack Engineer Apprentice in a company specialized in online voting
+- 🏢 Fullstack Engineer seekinng for an opportunity
 
 - 📫 How to reach me **matteo.ordrn@gmail.com**
